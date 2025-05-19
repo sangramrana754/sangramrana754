@@ -15,6 +15,10 @@
 
 ![Sangram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangramrana754&show_icons=true&theme=radical)
 
+
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=flat)
+
+
 ## ✨ Fun Fact
 
 I can turn a long, boring manual process into a 10-line script — and then automate it completely! 😄
